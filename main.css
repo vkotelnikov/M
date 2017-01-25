@@ -1,0 +1,21 @@
+body{
+	background-color: gray;
+}
+header{
+	text-shadow: 1px 1px lightgray;
+	font-family: Helvetica;
+	text-align: center;
+	padding-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+.kitty{
+	background-image: url('http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}
